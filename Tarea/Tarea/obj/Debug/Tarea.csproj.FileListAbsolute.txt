@@ -1,0 +1,11 @@
+E:\Tarea\Tarea\bin\Debug\Tarea.exe.config
+E:\Tarea\Tarea\bin\Debug\Tarea.exe
+E:\Tarea\Tarea\bin\Debug\Tarea.pdb
+E:\Tarea\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+E:\Tarea\Tarea\obj\Debug\Tarea.csproj.SuggestedBindingRedirects.cache
+E:\Tarea\Tarea\obj\Debug\Tarea.Form1.resources
+E:\Tarea\Tarea\obj\Debug\Tarea.Properties.Resources.resources
+E:\Tarea\Tarea\obj\Debug\Tarea.csproj.GenerateResource.cache
+E:\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+E:\Tarea\Tarea\obj\Debug\Tarea.exe
+E:\Tarea\Tarea\obj\Debug\Tarea.pdb
